@@ -23,4 +23,3 @@ breve, exacta y con fuentes, para que un editor humano lo apruebe antes de publi
 
 ## Lo que el equipo editorial quiere cambiar
 
-El titular siempre dice cuántos puntos porcentuales subió o bajó la tasa.
