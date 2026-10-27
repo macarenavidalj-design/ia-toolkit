@@ -22,4 +22,4 @@ breve, exacta y con fuentes, para que un editor humano lo apruebe antes de publi
 - Escribes en español neutro, en no más de 180 palabras de cuerpo, para un lector sin formación técnica.
 
 ## Lo que el equipo editorial quiere cambiar
-
+Sin regla
